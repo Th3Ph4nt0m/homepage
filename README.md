@@ -3,4 +3,4 @@
 This repository is partly an adapted version of [Portfolio Template](https://github.com/nisarhassan12/portfolio-template)
 
 # License
-MIT
+GPL-3.0
